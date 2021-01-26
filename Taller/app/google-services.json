@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "913406387545",
+    "project_id": "demofide-taller1",
+    "storage_bucket": "demofide-taller1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913406387545:android:11df6fcd1039b6cfd81848",
+        "android_client_info": {
+          "package_name": "com.example.taller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913406387545-3ut7i6e0o1m3nc6o5d0og4hmvqgbb82i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVV6uH3SFV3J5I-o37JIy_XpfTv_vpPUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913406387545-3ut7i6e0o1m3nc6o5d0og4hmvqgbb82i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913406387545:android:e0db04b532fb9a9ad81848",
+        "android_client_info": {
+          "package_name": "com.example.taller1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913406387545-3ut7i6e0o1m3nc6o5d0og4hmvqgbb82i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVV6uH3SFV3J5I-o37JIy_XpfTv_vpPUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913406387545-3ut7i6e0o1m3nc6o5d0og4hmvqgbb82i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
